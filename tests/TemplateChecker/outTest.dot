@@ -1,0 +1,5 @@
+digraph "Call graph" {
+    label="Call graph"
+
+    Node0x55dcd50b8eb0 [shape=record,label="{main  }"];
+}

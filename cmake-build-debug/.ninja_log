@@ -1,0 +1,21 @@
+# ninja log v5
+14666	20965	1587614700	tools/TemplateChecker/MyChecker	b980e4ebb97435b2
+1	23373	1586788043	lib/framework/CMakeFiles/framework.dir/CallGraph.cpp.o	a097ea39f19f61f7
+2	7289	1587010747	tools/TemplateChecker/CMakeFiles/MyChecker.dir/main.cpp.o	c90172eaa4bd8364
+6	14084	1587010383	tools/TemplateChecker/CMakeFiles/TemplateChecker.dir/main.cpp.o	cd5470e7d66890c2
+2397	2476	1586788023	lib/VFG/libvfg.a	121d31f3938de383
+5	14008	1587010383	lib/checkers/CMakeFiles/checkers.dir/TemplateChecker.cpp.o	8454b5215c60b49
+14594	14665	1587614694	lib/checkers/libcheckers.a	b0a33959a6cfdc2
+6142	6286	1586945748	lib/framework/libframework.a	a5b8bb3b5b549ca
+2	1337	1586788021	lib/framework/CMakeFiles/framework.dir/Config.cpp.o	a44bdcef5c137a75
+2310	2397	1586788022	lib/VFG/CMakeFiles/vfg.dir/VFG.cc.o	42d63cbe906cd012
+6613	9692	1587006637	tools/TemplateChecker/TemplateChecker	c27562dcc9b1d70f
+1338	2310	1586788022	lib/framework/CMakeFiles/framework.dir/Logger.cpp.o	3239eef4b0d0d5ce
+1	23816	1586788044	lib/framework/CMakeFiles/framework.dir/BasicChecker.cpp.o	1ffaaedcbbc0bf58
+3	6142	1586945748	lib/framework/CMakeFiles/framework.dir/ASTManager.cpp.o	e6f9601a69254957
+0	41	1587010739	build.ninja	868e5a79c9b862ac
+2	42346	1586788062	lib/framework/CMakeFiles/framework.dir/Common.cpp.o	152df1b41a293650
+3	14593	1587614694	lib/checkers/CMakeFiles/checkers.dir/MyChecker.cpp.o	5a09cdc51c5e9299
+3	14420	1587614768	lib/checkers/CMakeFiles/checkers.dir/MyChecker.cpp.o	5a09cdc51c5e9299
+14420	14460	1587614768	lib/checkers/libcheckers.a	b0a33959a6cfdc2
+14460	21291	1587614775	tools/TemplateChecker/MyChecker	b980e4ebb97435b2
